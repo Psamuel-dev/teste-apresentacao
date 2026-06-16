@@ -1,0 +1,14 @@
+{
+  "name": "projeto-seguranca-sdlc",
+  "version": "1.0.0",
+  "description": "Projeto didático — Segurança de Software (Tema 11)",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5"
+  }
+}

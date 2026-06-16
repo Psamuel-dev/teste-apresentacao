@@ -1,0 +1,9 @@
+# .github/dependabot.yml
+# Dependabot verifica dependências vulneráveis toda semana
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
